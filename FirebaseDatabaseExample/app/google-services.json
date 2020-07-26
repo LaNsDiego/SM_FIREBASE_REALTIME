@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "833570561531",
+    "firebase_url": "https://labrealtimedb-5940c.firebaseio.com",
+    "project_id": "labrealtimedb-5940c",
+    "storage_bucket": "labrealtimedb-5940c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833570561531:android:043ebdf0d45954a2eeff5e",
+        "android_client_info": {
+          "package_name": "com.example.firebasedatabaseexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833570561531-msoo6htmlv1vsdhagcekhrn5l8q36fvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjQMYs9bXgcQ3IWFNMs5_jG0yQ9lKBjVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833570561531-msoo6htmlv1vsdhagcekhrn5l8q36fvo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
